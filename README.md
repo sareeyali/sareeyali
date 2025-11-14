@@ -1,8 +1,3 @@
-<# Hi there! I'm Sareeya 👋  
-### Computer Science & Technology Management @ UC Davis • Full-Stack Builder • Cloud & ML Explorer ⚡
-
----
-
 ## 🌱 About Me
 Hi there! I'm Sareeya 👋 — a Computer Science major at UC Davis with a focus on full-stack engineering, cloud systems, and applied machine learning.  
 
