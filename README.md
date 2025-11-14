@@ -25,7 +25,6 @@ What I Have Worked With 🌷
 Let’s Connect! 🌷
 
 **LinkedIn:** https://linkedin.com/in/sareeya  
-**GitHub:** https://github.com/sareeyali  
 **Email:** sareeya25@icloud.com   
 
 
