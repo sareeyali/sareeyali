@@ -1,13 +1,5 @@
 ### 🌱 About Me
-Hi there! I'm Sareeya 👋 — a Computer Science major at UC Davis with a focus on full-stack engineering, cloud systems, and applied machine learning.  
-
-I love building things that *work in the real world* — whether that’s  
-🚅 IoT transit systems,  
-🧠 ML-powered tools,  
-🌐 full-stack web apps, or  
-☁️ internal infrastructure for actual organizations.
-
-When I’m not studying or shipping code, you’ll find me debugging something at 2 AM, organizing tech communities, or teaching beginners how to code. 💻  
+Hi there! I'm Sareeya 👋 — a Computer Science major at UC Davis with a focus on full-stack engineering, cloud systems, and applied machine learning. For my next side project, I want to experiment with crypto and build a small blockchain app. Outside of coding, I enjoy swimming and reading thrillers!
 
 ### 🚀 What I’ve Worked On
 - 🚅 **Transit Monitor** — processes 100k+ live IoT records with low-latency pipelines  
