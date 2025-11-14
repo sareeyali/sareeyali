@@ -1,4 +1,3 @@
-### 🌱 About Me
 Hi there! I'm Sareeya 👋 — a Computer Science major at UC Davis with a focus on full-stack engineering, cloud systems, and applied machine learning. For my next side project, I want to experiment with crypto and build a small blockchain app. Outside of coding, I enjoy swimming and reading thrillers!
 
 ### 🚀 What I’ve Worked On
