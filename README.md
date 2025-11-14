@@ -3,7 +3,7 @@ Hi there! I'm Sareeya 🌷
 I am a Computer Science major at UC Davis with a focus on full-stack engineering, cloud systems, and applied machine learning. I love mentoring beginners and leading student tech teams. For my next side project, I want to experiment with crypto and build a small blockchain app. 
 Outside of coding, I enjoy swimming and reading thrillers!
 
-What I’ve Worked On 🌷
+What I Have Worked On 🌷
 
 💌 **Transit Monitor** — processes 100k+ live IoT records with low-latency pipelines  
 💌 **ML Sleep Disorder Predictor** — full ML pipeline + Dockerized deployment  
@@ -12,7 +12,7 @@ What I’ve Worked On 🌷
 💌 **Community Clinic Website** — full-stack features for a local health org  
 
 
-Tech I Love Working With 🌷 
+What I Have Worked With 🌷 
 
 **Languages:** Python, Java, JavaScript, TypeScript, C/C++, Swift, SQL  
 **Backend:** Node.js, Flask, Express.js, REST APIs  
