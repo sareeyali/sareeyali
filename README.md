@@ -1,4 +1,4 @@
-## 🌱 About Me
+# 🌱 About Me
 Hi there! I'm Sareeya 👋 — a Computer Science major at UC Davis with a focus on full-stack engineering, cloud systems, and applied machine learning.  
 
 I love building things that *work in the real world* — whether that’s  
@@ -9,7 +9,7 @@ I love building things that *work in the real world* — whether that’s
 
 When I’m not studying or shipping code, you’ll find me debugging something at 2 AM, organizing tech communities, or teaching beginners how to code. 💻  
 
-## 🚀 What I’ve Worked On
+# 🚀 What I’ve Worked On
 - 🚅 **Transit Monitor** — processes 100k+ live IoT records with low-latency pipelines  
 - 🧠 **ML Sleep Disorder Predictor** — full ML pipeline + Dockerized deployment  
 - 📊 **Health Dashboard** — real-time dashboards using React + GraphQL  
@@ -17,7 +17,7 @@ When I’m not studying or shipping code, you’ll find me debugging something a
 - 🌐 **Community Clinic Website** — full-stack features for a local health org  
 
 
-## 💻 Tech I Love Working With
+# 💻 Tech I Love Working With
 - **Languages:** Python, Java, JavaScript, TypeScript, C/C++, Swift, SQL  
 - **Backend:** Node.js, Flask, Express.js, REST APIs  
 - **Frontend:** React, Angular, Tailwind CSS  
@@ -26,7 +26,7 @@ When I’m not studying or shipping code, you’ll find me debugging something a
 - **Tools:** Git, GitHub Actions, PostgreSQL, MongoDB, MQTT  
 
 
-## 🤝 Let’s Connect!
+# 🤝 Let’s Connect!
 - **LinkedIn:** https://linkedin.com/in/sareeya  
 - **GitHub:** https://github.com/sareeyali  
 - **Email:** sareeya25@icloud.com  
