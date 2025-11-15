@@ -16,8 +16,7 @@ What I Have Worked On 🌷
 What I Have Worked With 🌷 
 
 **Languages:** Python, Java, JavaScript, TypeScript, C/C++, Swift, SQL  
-**Backend:** Node.js, Flask, Express.js, REST APIs  
-**Frontend:** React, Angular, Tailwind CSS  
+**Frameworks:** Node.js, Flask, Express.js, React, Angular, Tailwind CSS 
 **Cloud:** AWS (Lambda, S3, IoT Core, Kinesis), Docker  
 **Data/ML:** Pandas, NumPy, Scikit-Learn, TensorFlow, Jupyter  
 **Tools:** Git, GitHub Actions, PostgreSQL, MongoDB, MQTT  
