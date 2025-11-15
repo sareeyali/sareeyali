@@ -1,6 +1,7 @@
 Hi there! I'm Sareeya 🌷 
 
-I am a Computer Science major at UC Davis with a focus on full-stack engineering, cloud systems, and applied machine learning. I love mentoring beginners and leading student tech teams. For my next side project, I want to experiment with crypto and build a small blockchain app. 
+I am a Computer Science major at UC Davis with a passion for full-stack engineering, cloud systems, and applied machine learning. I enjoy mentoring beginners and leading student tech teams. 
+For my next side project, I want to experiment with crypto and build a small blockchain app. 
 Outside of coding, I enjoy swimming and reading thrillers!
 
 What I Have Worked On 🌷
@@ -25,7 +26,4 @@ What I Have Worked With 🌷
 Let’s Connect! 🌷
 
 **LinkedIn:** https://linkedin.com/in/sareeya  
-**Email:** sareeya25@icloud.com   
-
-
-Thanks for checking out my GitHub! Feel free to explore my projects or reach out — I love meeting new people in tech :)
+**Email:** sareeya25@icloud.com  
